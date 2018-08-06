@@ -8,7 +8,8 @@ Kaggle competition notebook for:
 <li>https://machinelearningmastery.com/clean-text-machine-learning-python/
 <li>https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html
 <li>https://www.youtube.com/watch?v=BFaadIqWlAg   <--- Pipelines.. Definately a good thing!!
-<li>
-
+<li>https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+<li>https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions
+<li>http://course.fast.ai/lessons/lesson1.html <--- Very useful set of tutorials if you're an experienced programmer wanting to get up to speed quickly
 
 
