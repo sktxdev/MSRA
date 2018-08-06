@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Misc
+# OSX stuff
+.DS_Store
+
+# Data files
+data
+.csv
+.tsv
+
+
