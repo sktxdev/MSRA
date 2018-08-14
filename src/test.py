@@ -7,7 +7,7 @@
 
 import requests
 import json
-from argparse import Namespace
+# from argparse import Namespace
 
 
 class DataMuseLookup():
